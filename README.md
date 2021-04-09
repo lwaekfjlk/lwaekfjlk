@@ -9,7 +9,7 @@
   </a>
 </p>
 
-🎓 Daily Work: Forgetting programming skills besides **python**
+🎓 Daily Work: Natural Language Processing + Graph-based Research
 
 🤗 Recent Focus:
 Transform the Transformer
