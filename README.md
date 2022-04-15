@@ -1,4 +1,5 @@
-### Yolo there 👋
+### Yolo there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
 
 <p align="left">
   <a href="https://github.com/lwaefkjlk/lwaekfjlk">
@@ -9,7 +10,7 @@
   </a>
 </p>
 
-🎓 Daily Work: Natural Language Processing + Graph-based Research
+🎓 Daily Work: Natural Language Processing (especially Text Generation)
 
 🤗 Recent Focus:
 Transform the Transformer
