@@ -6,9 +6,6 @@
   <a href="https://github.com/lwaefkjlk/lwaekfjlk">
     <img src="https://komarev.com/ghpvc/?username=lwaekfjlk" alt="page views" />
   </a>
-  <a href="https://github.com/lwaekfjlk?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
-  </a>
 </p>
 
 🎓 Research Work: Natural Language Processing (especially Text Generation)
