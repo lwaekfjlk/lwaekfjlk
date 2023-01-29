@@ -1,5 +1,8 @@
-### Yolo there <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="25" />
+### Yolo there <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="25" /> I'm
 
+<h3 align="center"><a href="https://hud0shnik.github.io/">
+   <img alt="Haofei Yu" src="https://readme-typing-svg.herokuapp.com/?lines=Danila+Egorov;Go+Back-end+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+</h3>
 
 
 <p align="left">
@@ -16,5 +19,4 @@ Transform the Transformer
 
 ![lwaekfjlk's GitHub stats](https://github-readme-stats-futuretech6.vercel.app/api?username=lwaekfjlk&count_private=true&show_icons=true&theme=ayu-mirage)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwaekfjlk"/>
 
