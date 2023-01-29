@@ -17,6 +17,5 @@ Transform the Transformer
   </a>
 </p>
 
-![lwaekfjlk's GitHub stats](https://github-readme-stats-futuretech6.vercel.app/api?username=lwaekfjlk&count_private=true&show_icons=true&theme=gradient)
-
+![lwaekfjlk's Github Stats](https://github-readme-stats.vercel.app/api?username=lwaekfjlk&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
 
