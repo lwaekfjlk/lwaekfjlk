@@ -16,5 +16,5 @@ Transform the Transformer
 
 ![lwaekfjlk's GitHub stats](https://github-readme-stats-futuretech6.vercel.app/api?username=lwaekfjlk&count_private=true&show_icons=true&theme=ayu-mirage)
 
-![Top Langs](https://github-readme-stats-futuretech6.vercel.app/api/top-langs/?username=lwaekfjlk&count_private=true&layout=compact&langs_count=10&theme=ayu-mirage&exclude_repo=github-readme-stats,CA_LAB&hide=jupyter%20notebook,html,tsql)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
