@@ -9,7 +9,7 @@
 🎓 Research Work: Multi-agent System
 
 🤗 Recent Focus:
-Social Agent, Web Agent, Software Agent, Multimodal models
+Social Agent, Web Agent, Software Agent, Multimodal Agent
 
 <p align="left">
   <a href="https://github.com/lwaefkjlk/lwaekfjlk">
