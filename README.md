@@ -13,6 +13,3 @@
     <img src="https://komarev.com/ghpvc/?username=lwaekfjlk" alt="page views" />
   </a>
 </p>
-
-![lwaekfjlk's Github Stats](https://github-readme-stats.vercel.app/api?username=lwaekfjlk&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff)
-
